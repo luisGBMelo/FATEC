@@ -11,6 +11,6 @@ Repositório central de estudos para a disciplina de Linguagem de Programação.
 * [Atividade Estrutura de Iteração](estruturaDeIteracao/): Exercícios práticos utilizando laços de repetição `while`, `do while` e `for`.
 ---
 [🔙 Voltar para 2º Semestre](../) <br>
-[🔙 Voltar para o Inicio FATEC(../)
+[🔙 Voltar para o Inicio FATEC](../../)
 
 
