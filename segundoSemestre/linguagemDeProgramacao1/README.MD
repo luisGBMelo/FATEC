@@ -8,8 +8,6 @@ Repositório central de estudos para a disciplina de Linguagem de Programação.
 * Estruturas de repetição (`while`, `do-while`, `for`).
 
 ## 📂 Organização das Atividades
-* [Atividade While](atividade-while/): Exercício prático utilizando laço `while`.
-* [Atividade Do-While](atividade-dowhile/): Exercício prático utilizando laço `do-while`.
-* [Atividade For](atividade-for/): Exercício prático utilizando laço `for`.
+* [Atividade Estrutura de Iteração](estruturaDeIteracao/): Exercícios práticos utilizando laços de repetição `while`, `do while` e `for`.
 
 

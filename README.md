@@ -8,8 +8,8 @@ Aqui você encontra a organização de tudo o que foi estudado, dividido por sem
 
 * **[1º Semestre](1-semestre/)** 
   * Algoritmos e Lógica de Programação, Engenharia de Software 1, Arquitetura e Organização de Computadores, Sistemas Operacionais, Projeto Integrador 1, Ingles 1, Comunicação e Expressão.
-* **[2º Semestre](2-semestre/)** *(Atual)*
-  * [Linguagem de Programação](linguagemDeProgramacao1/), Banco de Dados 1, Engenharia de Software 2, Desenvolvimento Web 1, Ingles 2, Projeto Integrador 2, Compilance e Segurança da Informação.
+* **[2º Semestre](segundoSemestre/)** *(Atual)*
+  * [Linguagem de Programação](segundoSemestre/linguagemDeProgramacao1/), Banco de Dados 1, Engenharia de Software 2, Desenvolvimento Web 1, Ingles 2, Projeto Integrador 2, Compilance e Segurança da Informação.
 * **[3º Semestre](3-semestre/)** 
   * *(Aguardando início)*
 * **[4º Semestre](4-semestre/)** 
