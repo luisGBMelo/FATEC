@@ -1,0 +1,10 @@
+# Ignorar todos os arquivos por padrão (bloqueia os executáveis sem extensão)
+*
+
+# Abrir exceções para o que realmente importa salvar
+!*/
+!.gitignore
+!*.c
+!*.h
+!*.md
+!*.txt
