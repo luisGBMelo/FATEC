@@ -9,7 +9,7 @@ Aqui você encontra a organização de tudo o que foi estudado, dividido por sem
 * **[1º Semestre](1-semestre/)** 
   * Algoritmos e Lógica de Programação, Fundamentos de TI.
 * **[2º Semestre](2-semestre/)** *(Atual)*
-  * [Linguagem de Programação](segundoSemestre/linguagemDeProgramacao/), Banco de Dados, Engenharia de Software.
+  * [Linguagem de Programação](segundoSemestre/linguagemDeProgramacao1/), Banco de Dados, Engenharia de Software.
 * **[3º Semestre](3-semestre/)** 
   * *(Aguardando início)*
 * **[4º Semestre](4-semestre/)** 
