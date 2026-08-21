@@ -1,4 +1,4 @@
-# 💻 Linguagem de Programação
+# 💻 Linguagem de Programação 1
 
 Repositório central de estudos para a disciplina de Linguagem de Programação. Aqui aplico conceitos teóricos em código prático utilizando C.
 
