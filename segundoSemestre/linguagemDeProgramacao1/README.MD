@@ -9,7 +9,5 @@ Repositório central de estudos para a disciplina de Linguagem de Programação.
 
 ## 📂 Organização das Atividades
 * [Atividade Estrutura de Iteração](estruturaDeIteracao/): Exercícios práticos utilizando laços de repetição `while`, `do while` e `for`.
-* [Atividade Do-While](atividade-dowhile/): Exercício prático utilizando laço `do-while`.
-* [Atividade For](atividade-for/): Exercício prático utilizando laço `for`.
 
 
