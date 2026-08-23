@@ -6,7 +6,7 @@ Repositório dedicado à resolução da atividade sobre **Estruturas de Iteraç�
 "Um programa que calcule a media das idades de n pessoas. O programa deve ser finalizado quando for digitado -1"
 
 ## 🛠️ Tecnologias e Conceitos Utilizados
-* Linguagem: **[C]**
+* Linguagem: **C**
 * Estruturas de controle: `if/else, while`
 * Entrada e Saída de dados: `printf/scanf`
 * Verificação de entrada com limpeza de buffer: `getchar`
@@ -18,7 +18,7 @@ Certifique-se de ter o pacote `build-essential` instalado em sua distribuição 
 1. Abra o terminal na pasta onde o arquivo está salvo.
 2. Compile o código executando o comando abaixo:
    ```bash
-   [g++ ou gcc] nome_do_arquivo.[cpp ou c] -o programa
+   gcc nome_do_arquivo. c -o programa
    ```
 3. Execute o programa gerado:
    ```bash
