@@ -9,7 +9,7 @@ Aqui você encontra a organização de tudo o que foi estudado, dividido por sem
 * **[1º Semestre](1-semestre/)** 
   * Algoritmos e Lógica de Programação, Engenharia de Software 1, Arquitetura e Organização de Computadores, Sistemas Operacionais, Projeto Integrador 1, Ingles 1, Comunicação e Expressão.
 * **[2º Semestre](segundoSemestre/)** *(Atual)*
-  * [Linguagem de Programação](segundoSemestre/linguagemDeProgramacao1/), Banco de Dados 1, Engenharia de Software 2, Desenvolvimento Web 1, Ingles 2, Projeto Integrador 2, Compilance e Segurança da Informação.
+  * [Linguagem de Programação](segundoSemestre/linguagemDeProgramacao1/), Banco de Dados 1, Engenharia de Software 2, [Desenvolvimento Web 1](segundoSemestre/desenvolvimentoWeb1/), Ingles 2, Projeto Integrador 2, Compilance e Segurança da Informação.
 * **[3º Semestre](3-semestre/)** 
   * *(Aguardando início)*
 * **[4º Semestre](4-semestre/)** 
@@ -22,7 +22,8 @@ Aqui você encontra a organização de tudo o que foi estudado, dividido por sem
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 Durante o curso, as principais ferramentas e linguagens até então exploradas são:
-* **Linguagens:** C e C++
+* **Linguagens de Programação:** C e C++
+* **Tecnologias Web:** HTML5 e CSS3
 * **Ambiente:** Linux (Terminal, GCC/G++), Windows(Embarcadeiro DevC++)
 * **Editores/IDEs:** VS Code, Sublime-text
 
