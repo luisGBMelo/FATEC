@@ -22,7 +22,8 @@ Aqui você encontra a organização de tudo o que foi estudado, dividido por sem
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 Durante o curso, as principais ferramentas e linguagens até então exploradas são:
-* **Linguagens:** C e C++
+* **Linguagens de Programação:** C e C++
+* **Tecnologias Web:** HTML5 e CSS3
 * **Ambiente:** Linux (Terminal, GCC/G++), Windows(Embarcadeiro DevC++)
 * **Editores/IDEs:** VS Code, Sublime-text
 
