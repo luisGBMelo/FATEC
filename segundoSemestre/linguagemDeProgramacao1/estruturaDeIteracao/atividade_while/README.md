@@ -38,6 +38,6 @@ A media de 3 pessoas eh: 4.33
 ```
 
 ---
-Desenvolvido por [Luis Gustavo Barbosa de Melo, luisGBMelo 🚀
+Desenvolvido por Luis Gustavo Barbosa de Melo, luisGBMelo 🚀
 
 
