@@ -10,6 +10,6 @@ Repositório central de estudos para a disciplina de Desenvolvimento WEB. Aqui a
 * **Estilização com CSS:** Aplicação de estilos de forma Inline, Interna (`<style>`) e Externa (arquivo `.css`).
 
 ## 📂 Organização das Atividades
-* [Atividade 01 - Estrutura e Textos](atividade-textos/): Exercício prático utilizando tags de texto, títulos e css inline.
-* [Atividade 02 - Listas e Tabelas](atividade-tabelas/): Exercício prático com tabelas e listas organizadas.
-* [Atividade 03 - Estilização CSS](atividade-css/): Exercício prático aplicando CSS externo e interno.
+* [Atividade 01 - Estrutura e Textos](aula1_estruturaBasicaHtml/): Exercício prático utilizando tags de texto e titulos.
+* [Atividade 02 - Listas e Tabelas](aula2_links/): Exercício prático com links locais, internos e externos.
+* [Atividade 03 - Estilização CSS](aula3_css_div/): Exercício prático aplicando (`<div>`) imgens e tabelas com CSS.
