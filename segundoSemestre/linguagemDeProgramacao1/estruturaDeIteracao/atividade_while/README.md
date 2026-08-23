@@ -18,7 +18,7 @@ Certifique-se de ter o pacote `build-essential` instalado em sua distribuição 
 1. Abra o terminal na pasta onde o arquivo está salvo.
 2. Compile o código executando o comando abaixo:
    ```bash
-   gcc nome_do_arquivo. c -o programa
+   gcc nome_do_arquivo.c -o programa
    ```
 3. Execute o programa gerado:
    ```bash
