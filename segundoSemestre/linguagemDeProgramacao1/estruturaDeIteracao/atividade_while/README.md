@@ -1,6 +1,6 @@
 # Atividade: Media de idades usando `while`
 
-Repositório dedicado à resolução da atividade sobre **[Estruturas de Iteração]** na linguagem **C**.
+Repositório dedicado à resolução da atividade sobre **Estruturas de Iteração** na linguagem **C**.
 
 ## 📝 Descrição do Problema
 "Um programa que calcule a media das idades de n pessoas. O programa deve ser finalizado quando for digitado -1"
