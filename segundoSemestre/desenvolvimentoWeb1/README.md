@@ -11,5 +11,5 @@ Repositório central de estudos para a disciplina de Desenvolvimento WEB. Aqui a
 
 ## 📂 Organização das Atividades
 * [Atividade 01 - Estrutura e Textos](aula1_estruturaBasicaHtml/): Exercício prático utilizando tags de texto e titulos.
-* [Atividade 02 - Listas e Tabelas](aula2_links/): Exercício prático com links locais, internos e externos.
-* [Atividade 03 - Estilização CSS](aula3_css_div/): Exercício prático aplicando (`<div>`) imgens e tabelas com CSS.
+* [Atividade 02 - Links](aula2_links/): Exercício prático com links locais, internos e externos.
+* [Atividade 03 - Layout e Estilização CSS](aula3_css_div/): Exercício prático aplicando (`<div>`) imgens e tabelas com CSS.
